@@ -1,5 +1,8 @@
 # Movie-Theater-Challenge
 
+# Instructions
+* Compile program with the following command: `gcc -Wall -Werror main.c -o main.o`
+
 ### Goals
 * Create a simple program to handle reservation requests from an input file and and return the saved seats in an output file
 
