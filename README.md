@@ -8,6 +8,7 @@
 * No Makefile used to compile program
 * Output is printed to STDOUT instead of written to a text file
 * No error checking to handle scenario where theater is currently full
+* Did not free dynamically allocated space, program contains memory leaks
 
 ### Potential Fixes
 * Would spend more time adding documentation to the code and picking better variable names
